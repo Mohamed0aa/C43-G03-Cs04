@@ -23,6 +23,15 @@
             //    if(i%2==0) Console.Write(i+" ");
             //}
             #endregion
+
+            #region q4 :  Write a program that takes two integers then prints the power.
+            //int n = int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            //int f = 1;
+            //for (int i = 1; i <= m; i++)
+            //    f *= n;
+            //Console.WriteLine(f);
+            #endregion
         }
     }
 }
