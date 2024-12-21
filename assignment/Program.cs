@@ -191,8 +191,32 @@ namespace assignment
             //    }
             //}
             //Console.WriteLine(mx);
-           
-                
+            #endregion
+
+            #region q18 :  Write a program to create two multidimensional arrays of same size. Accept value from user and store them in first array. Now copy all the elements of first array on second array and print second array.
+
+            //int n=int.Parse(Console.ReadLine());
+            //int m= int.Parse(Console.ReadLine());
+            //int[,] num = new int[n, m];
+            //int[,] num1 = new int[n, m];
+
+            //for (int i = 0; i < n; i++)
+            //{
+            //    for (int j = 0; j < m; j++)
+            //    {
+            //        num[i,j] = int.Parse(Console.ReadLine());
+            //    }
+            //}
+            //num1 = num;
+            //for (int i = 0; i < n; i++)
+            //{
+            //    for (int j = 0; j < m; j++)
+            //    {
+            //        Console.Write(num1[i,j]+ " ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
 
 
             #endregion
