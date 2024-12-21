@@ -174,6 +174,29 @@ namespace assignment
             //Console.WriteLine(num[num.Length-2]);
             #endregion
 
+            #region q17 : Consider an Array of Integer values with size N
+            //int n=int.Parse(Console.ReadLine()),v,mx=0;
+            //int[]num= new int[n];
+            //for(int i=0; i<n; i++)
+            //    num[i]=int.Parse(Console.ReadLine());
+
+            //for(int i=0; i<n; i++)
+            //{
+            //    for(int j=n-1; j>=0; j--)
+            //    {
+            //        if(num[i]==num[j])
+            //        {
+            //            mx=Math.Max(mx,j-i-1);
+            //        }
+            //    }
+            //}
+            //Console.WriteLine(mx);
+           
+                
+
+
+            #endregion
+
         }
     }
 }
