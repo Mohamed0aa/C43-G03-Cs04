@@ -140,6 +140,21 @@ namespace assignment
 
             #endregion
 
+            #region q14 : Write a program in C# Sharp to count the frequency of each element of an array.
+            //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
+            //int[] frq=new int[20];
+            //Array.Clear(frq, 0, frq.Length);
+
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    frq[num[i]]++;
+            //}
+            //for (int i = 0; i < frq.Length; i++)
+            //{
+            //    Console.WriteLine(i+" " + frq[i]);
+            //}
+            #endregion
+
         }
     }
 }
