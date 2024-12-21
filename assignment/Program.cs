@@ -54,18 +54,29 @@
             #endregion
 
             #region q7 :  Write a program in C# Sharp to convert a decimal number into binary without using an array.
-           // int n = int.Parse(Console.ReadLine());
-           // string q=" ";
-           // while (n != 0) {
-           //     q += Convert.ToString(n%2);
-           //     n /= 2;
-           // }
-           //for (int i =q.Length-1; i >= 0; i--)
-           //     Console.Write(q[i]);
-
-            
-
+            // int n = int.Parse(Console.ReadLine());
+            // string q=" ";
+            // while (n != 0) {
+            //     q += Convert.ToString(n%2);
+            //     n /= 2;
+            // }
+            //for (int i =q.Length-1; i >= 0; i--)
+            //     Console.Write(q[i]);
             #endregion
-        }
+
+            #region q8 : Write a program that prints an identity matrix using for loop, in other words takes a value n from the user and shows the identity table of size n * n.
+            //int n = int.Parse(Console.ReadLine());
+            //for (int i = 0; i < n; i++)
+            //{
+            //    for (int j = 0; j < n; j++)
+            //    {
+            //        Console.Write("1 ");
+            //    }
+            //    Console.WriteLine();
+            //}
+            #endregion
+
+
+                }
     }
 }
