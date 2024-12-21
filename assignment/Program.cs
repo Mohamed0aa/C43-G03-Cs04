@@ -34,9 +34,23 @@
             #endregion
 
             #region q5 : Write a program to allow the user to enter a string and print the REVERSE of it.
-                //string q=Console.ReadLine();
-                //for(int i=q.Length-1;i>=0;i--)
-                //  Console.Write(q[i]);
+            //string q=Console.ReadLine();
+            //for(int i=q.Length-1;i>=0;i--)
+            //  Console.Write(q[i]);
+            #endregion
+
+            #region q6 :  Write a program in C# Sharp to find prime numbers within a range of numbers.
+            //int n = int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            
+            //for (int i = n; i < m; i++)
+            //{
+            //    bool prime = false;
+            //    for (int j = 2; j < i; j++)
+            //    { if (i % j == 0) prime = true; }
+
+            //    if (!prime && i!=1) Console.Write(i+" ");
+            //}
             #endregion
         }
     }
