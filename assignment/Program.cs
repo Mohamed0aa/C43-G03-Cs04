@@ -15,6 +15,14 @@
             //for (int i = 1; i <= 12; i++)
             //    Console.Write(i*n+" ");
             #endregion
+
+            #region q3 : Write a program that allows to user to insert number then print all even numbers between 1 to this number
+            //int n = int.Parse(Console.ReadLine());
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    if(i%2==0) Console.Write(i+" ");
+            //}
+            #endregion
         }
     }
 }
