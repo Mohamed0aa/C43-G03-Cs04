@@ -155,6 +155,19 @@ namespace assignment
             //}
             #endregion
 
+            #region q15 : Write a program in C# Sharp to find maximum and minimum element in an array
+            //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
+            //int mn = 10000;
+            //int mx = 0;
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    mx=Math.Max(mx, num[i]);
+            //    mn=Math.Min(mn, num[i]);
+            //}
+            //Console.WriteLine($"max = {mx} || min = {mn}");
+            
+            #endregion
+
         }
     }
 }
