@@ -42,7 +42,7 @@
             #region q6 :  Write a program in C# Sharp to find prime numbers within a range of numbers.
             //int n = int.Parse(Console.ReadLine());
             //int m = int.Parse(Console.ReadLine());
-            
+
             //for (int i = n; i < m; i++)
             //{
             //    bool prime = false;
@@ -51,6 +51,20 @@
 
             //    if (!prime && i!=1) Console.Write(i+" ");
             //}
+            #endregion
+
+            #region q7 :  Write a program in C# Sharp to convert a decimal number into binary without using an array.
+           // int n = int.Parse(Console.ReadLine());
+           // string q=" ";
+           // while (n != 0) {
+           //     q += Convert.ToString(n%2);
+           //     n /= 2;
+           // }
+           //for (int i =q.Length-1; i >= 0; i--)
+           //     Console.Write(q[i]);
+
+            
+
             #endregion
         }
     }
