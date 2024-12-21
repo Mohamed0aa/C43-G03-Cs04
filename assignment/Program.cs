@@ -32,6 +32,12 @@
             //    f *= n;
             //Console.WriteLine(f);
             #endregion
+
+            #region q5 : Write a program to allow the user to enter a string and print the REVERSE of it.
+                //string q=Console.ReadLine();
+                //for(int i=q.Length-1;i>=0;i--)
+                //  Console.Write(q[i]);
+            #endregion
         }
     }
 }
