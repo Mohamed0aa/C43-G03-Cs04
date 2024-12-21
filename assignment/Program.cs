@@ -1,4 +1,5 @@
-﻿using System.Drawing;
+﻿using System.ComponentModel;
+using System.Drawing;
 
 namespace assignment
 {
@@ -93,6 +94,13 @@ namespace assignment
 
             #region q11 =q8
 
+            #endregion
+
+            #region q12 :  Write a program in C# Sharp to find the sum of all elements of the array.
+                    //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, };
+                    //int sum = 0;
+                    //for (int i = 0; i < num.Length; i++) sum += num[i];
+                    //Console.Write(sum);
             #endregion
 
         }
