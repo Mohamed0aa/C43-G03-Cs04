@@ -97,10 +97,47 @@ namespace assignment
             #endregion
 
             #region q12 :  Write a program in C# Sharp to find the sum of all elements of the array.
-                    //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, };
-                    //int sum = 0;
-                    //for (int i = 0; i < num.Length; i++) sum += num[i];
-                    //Console.Write(sum);
+            //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, };
+            //int sum = 0;
+            //for (int i = 0; i < num.Length; i++) sum += num[i];
+            //Console.Write(sum);
+            #endregion
+
+            #region q13 :  Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order
+            //int[] num = { 1, 2, 3, 4, };
+            //int[] num1= { 5,6,7,8};
+            //int[] num2=new int [8];
+            //int i = 0,j=0,co=0;
+            //while (i < num.Length && j < num1.Length)
+            //{
+            //    if (num[i] < num1[j])
+            //    {
+            //        num2[co] = num[i]; 
+            //        i++;
+            //    }
+            //    else
+            //    {
+            //        num2[co] = num1[j];
+            //        j++;
+            //    }
+            //    co++;
+            //}
+            //while (i < num.Length)
+            //{
+            //    num2[co] = num[i];
+            //    i++;
+            //    co++;
+            //}
+
+            //while (j < num1.Length)
+            //{
+            //    num2[co] = num1[j];
+            //    j++;
+            //    co++;
+            //}
+
+            //for(int I=0;I<num2.Length;I++) Console.WriteLine(num2[I]);
+
             #endregion
 
         }
