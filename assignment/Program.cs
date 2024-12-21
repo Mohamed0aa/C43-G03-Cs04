@@ -165,7 +165,13 @@ namespace assignment
             //    mn=Math.Min(mn, num[i]);
             //}
             //Console.WriteLine($"max = {mx} || min = {mn}");
-            
+
+            #endregion
+
+            #region q16 : Write a program in C# Sharp to find the second largest element in an array.
+            //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9};
+            //Array.Sort(num);
+            //Console.WriteLine(num[num.Length-2]);
             #endregion
 
         }
