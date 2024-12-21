@@ -83,6 +83,12 @@
             //Console.WriteLine(q.Substring(s,en));
             #endregion
 
+            #region q10 : Write C# program that take two string variables and print them as one variable 
+            //string q1=Console.ReadLine();
+            //string q2=Console.ReadLine();
+            //Console.WriteLine(q1+q2);
+            #endregion
+
         }
     }
 }
