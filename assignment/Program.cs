@@ -76,7 +76,13 @@
             //}
             #endregion
 
+            #region q9 : Write C# program that Extract a substring from a given string. 
+            //string q=Console.ReadLine();
+            //int s = int.Parse(Console.ReadLine());
+            //int en= int.Parse(Console.ReadLine());
+            //Console.WriteLine(q.Substring(s,en));
+            #endregion
 
-                }
+        }
     }
 }
