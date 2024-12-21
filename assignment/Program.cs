@@ -1,4 +1,6 @@
-﻿namespace assignment
+﻿using System.Drawing;
+
+namespace assignment
 {
     internal class Program
     {
@@ -87,6 +89,10 @@
             //string q1=Console.ReadLine();
             //string q2=Console.ReadLine();
             //Console.WriteLine(q1+q2);
+            #endregion
+
+            #region q11 =q8
+
             #endregion
 
         }
